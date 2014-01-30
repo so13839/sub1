@@ -3,6 +3,7 @@ Comparison of Inflation-adjusted Family Income in Top Quartile with Marital Stat
 To compare Inflation-adjusted Family Income in Top Quartile with other variables, cluster analysis, principal component analysis, and correlation analysis were performed on the variables.  Four variables (Daily Hours Watching TV, Marital status, Population density, Class identification, and) were selected for comparison with Inflation-adjusted Family Income in Top Quartile. Inflation-adjusted Family Income in Non-Top Quartile was also included.
  
 A) Daily Hours Watching TV:
+
  
 Figure 1. Comparison between Inflation-adjusted Family Income in Top Quartile (red line) and daily hours used to watch TV.  Inflation-adjusted Family Income in Non-Top Quartile included (blue)
 
@@ -11,7 +12,7 @@ Observations:
 2)	The percentage of Top Quartile group watching TV at 2 hours is greater than Non-Quartile by 7%.
 3)	On average, the percentage of people watching TV decreases after two hours. However, the percentage of people with family income in Non-Top Quartile is always higher than Top Quartile after 3 hrs.
  
- 
+
 
 B) Marital status:
   Figure 2. Comparison between Inflation-adjusted Family Income in Top Quartile (red line) and marital status.  Inflation-adjusted Family Income in Non-Top Quartile included (blue)
